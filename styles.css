@@ -7,12 +7,7 @@
     margin: 0;
 }
 
-body {
-    display: flex;
-    flex-direction: column;
-}
-
-/*Header design*/
+/* Start Header design */
 
 header {
     background-color: #212837;
@@ -100,5 +95,8 @@ header nav ul a {
     width: 400px;
     border-radius: 10px;
 }
+/* End Header design */
 
-/*About section design*/
+/* Start Explore design */
+
+/* End Explore design */
