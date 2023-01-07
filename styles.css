@@ -125,6 +125,10 @@ header nav ul a {
     border-radius: 10px;
 }
 
+.explore .container .box img:hover {
+    filter: blur(5px);
+}
+
 .explore .container .box p {
     text-align: center;
     color: #4D5563;
