@@ -98,5 +98,66 @@ header nav ul a {
 /* End Header design */
 
 /* Start Explore design */
+.explore h1 {
+    font-size: 36px;
+    color: #1f2937;
+    text-align: center;
+    margin: 60px 0;
+}
+
+.explore .container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-bottom: 80px;
+}
+
+.explore .container .box {
+    width: 15%;
+    margin-right: 30px;
+}
+
+.explore .container .box img {
+    width: 100%;
+    aspect-ratio: 3/2;
+    margin-bottom: 7px;
+    border: 3px solid #3882F6;
+    border-radius: 10px;
+}
+
+.explore .container .box p {
+    text-align: center;
+    color: #4D5563;
+    font-weight: 600;
+    font-size: 14px;
+}
 
 /* End Explore design */
+
+/* Start of Quote design */
+
+.quote {
+    background-color: #E5E7EB;
+    display: flex;
+    justify-content: center;
+    padding: 100px 0;
+}
+
+.quote-container {
+    width: 60%;
+}
+
+.quote-container p:first-child {
+    font-size: 36px;
+    color: #1f2937;
+    margin-bottom: 10px;
+}
+
+.quote-container p:last-child {
+    font-size: 22px;
+    font-weight: 800;
+    color: #1f2937;
+    text-align: right;
+}
+
+/* End of Quote design */
