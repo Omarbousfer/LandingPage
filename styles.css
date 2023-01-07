@@ -223,3 +223,15 @@ header nav ul a {
 }
 
 /* End of Sign up design */
+
+/* Start of Footer design */
+
+footer {
+    background-color: #1f2937;
+    text-align: center;
+    color: white;
+    padding: 40px 0;
+    font-weight: 600;
+}
+
+/* End of Footer design */
